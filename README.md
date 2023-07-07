@@ -1,2 +1,2 @@
 # Awal Studio
-Multidisciplinary Design Studio Based In Jakarta
+Multidisciplinary Design Studio Based in Jakarta
