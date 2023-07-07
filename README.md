@@ -1,2 +1,2 @@
-# awalstudio.github.io
+# Awal Studio
 Multidisciplinary Design Studio
